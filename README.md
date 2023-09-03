@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **iTrenzy Technologies**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **meyank@itrenzy.com**
 
-- ⚡ Fun fact **I am a gamer**
+- ⚡ Fun fact **I am a Trader**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
