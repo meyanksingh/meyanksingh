@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/meyanksingh" target="blank"><img src="https://img.shields.io/twitter/follow/meyanksingh?logo=twitter&style=for-the-badge" alt="meyanksingh" /></a> </p>
 
-- 🔭 I’m currently working in **iTrenzy Technologies**
 
 - 🌱 I’m currently learning **TypeScript**
 
