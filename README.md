@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi there, Meyank here 👋🏼
+[![Gmail Badge](https://img.shields.io/badge/-work.meyank24@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:work.meyank24@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Meyank%20Singh-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meyank-singh/ "Connect on LinkedIn")
 
-<!--
-**meyanksingh/meyanksingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+I am a Junior at Indian Institute of Technology Madras, pursuing a Bachelor of Science in Data Science & Application, who is interested in maths, programming, and finance. I love to learn and contribute in any and every possible way.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+**SKILLS** 
+
+• **Programming**: C, C++, Python, R, SQL, OOPs, Data Structure and Algorithm.
+
+• **Data Science**: Data Analysis, Supervised Learning, Unsupervised Learning, Neural Networks and Deep Learning, Data 
+Visualization, Natural Language Processing, Text Analysis, Sentiment Analysis, **Mathematics** (Probability, Applied Statistics, 
+Linear Algebra).
+
+• **Libraries**: NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib, TensorFlow, Keras, Snscrape. 
+
+• **Visualization Tools**: Tableau, Power BI
+
+• **Web Development**: HTML, CSS. 
+
+• **Tools**: Git, Google Colab, Excel, MS PowerPoint, POSTMAN. 
