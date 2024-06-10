@@ -19,6 +19,6 @@ Linear Algebra).
 
 • **Visualization Tools**: Tableau, Power BI
 
-• **Web Development**: HTML, CSS. 
+• **Web Development**: HTML, CSS, Flask, Django. 
 
 • **Tools**: Git, Google Colab, Excel, MS PowerPoint, POSTMAN. 
