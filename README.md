@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Meyank%20Singh-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meyank-singh/ "Connect on LinkedIn")
 
 ---
-I am a Junior at Indian Institute of Technology Madras, pursuing a Bachelor of Science in Data Science & Application, who is interested in maths, programming, and finance.
+
 
 
 ---
